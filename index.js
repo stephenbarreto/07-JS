@@ -3,8 +3,6 @@ const fs = require('fs');
 let rl;
 
 let questions;
-
-// Incorporate questions directly into the file
 const questionData = `[
   {
     "pergunta": "O que significa a sigla HTML?",
