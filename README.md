@@ -49,7 +49,7 @@ Certifique-se de ter o Node.js instalado na sua máquina antes de executar este 
 - Execute o jogo com o seguinte comando:
   ```bash
   npm start
-- Como Jogar Online (Sem Instalação Local):
+- Como Jogar Online (Sem Instalação Local): Requisito ter uma conta no replit.com
   Você pode jogar o Mini Jogo diretamente no seu navegador sem a necessidade de instalar o Node.js. Siga as instruções abaixo:
 
 1. **Acesse o Jogo no Repl.it:**
