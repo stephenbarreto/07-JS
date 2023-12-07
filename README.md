@@ -34,8 +34,10 @@ Certifique-se de ter o Node.js instalado na sua máquina antes de executar este 
    ```bash
    git clone git clone https://github.com/stephenbarreto/07-JS.git
    
-2. Navegue até o Diretório do Projeto: cd 07-JS
-3. Instale as Dependências:
+2. Navegue até o Diretório do Projeto:
+   ```bash
+    cd 07-JS
+4. Instale as Dependências:
    ```bash
    npm install
 5. Instale a biblioteca:
@@ -44,7 +46,7 @@ Certifique-se de ter o Node.js instalado na sua máquina antes de executar este 
    
 ## Uso   
 - Execute o jogo com o seguinte comando:
- ```bash
+  ```bash
   npm start
 
 ## Licença
