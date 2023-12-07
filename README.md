@@ -74,6 +74,7 @@ Sinta-se à vontade para contribuir para aprimorar este jogo! Se você tiver ide
 ## Créditos 
 - Fontes de referência utilizadas
   ```bash
+     https://www.youtube.com/watch?v=UR9X2VBECE4
      https://nodejs.org/pt-br/docs/
      https://www.youtube.com/watch?v=UUCplWncpOQ&t
      https://www.geeksforgeeks.org/node-js-readline-module/
