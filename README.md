@@ -32,13 +32,20 @@ Certifique-se de ter o Node.js instalado na sua máquina antes de executar este 
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone git clone https://github.com/stephenbarreto/07-JS.git
    
 2. Navegue até o Diretório do Projeto: cd 07-JS
-3. Instale as Dependências: npm install
-4. Instale a biblioteca: npm install readline
+3. Instale as Dependências:
+   ```bash
+   npm install
+5. Instale a biblioteca:
+   ```bash
+   npm install readline
+   
 ## Uso   
-- Execute o jogo com o seguinte comando: npm start
+- Execute o jogo com o seguinte comando:
+ ```bash
+  npm start
 
 ## Licença
 O código está aberto para modificações e melhorias.
