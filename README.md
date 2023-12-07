@@ -5,14 +5,14 @@ Bem-vindo ao Mini Jogo de Perguntas e Respostas! Este é um jogo inspirado no fa
 
 ## Índice
 
-- [Sobre](#SobreoJogo)
+- [Sobre](#Sobre)
 - [Funcionalidades](#Funcionalidades)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Licença](#licença)
 
-## Sobre o Jogo
+## Sobre
 
 Mini Jogo: Show do Milhão é uma aplicação de linha de comando desenvolvida em JavaScript usando o Node.js. O jogo apresenta uma série de perguntas relacionadas a tecnologias web, permitindo que os jogadores escolham entre opções e acumulem prêmios com respostas corretas.
 
