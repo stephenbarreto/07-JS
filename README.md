@@ -7,7 +7,7 @@ Bem-vindo ao Mini Jogo de Perguntas e Respostas! Este é um jogo inspirado no fa
 ## Índice
 
 - [Sobre](#Sobre)
-- [Funcionalidades](#Funcionalidades)
+- [Regras](#Regras)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Uso](#uso)
@@ -18,13 +18,24 @@ Bem-vindo ao Mini Jogo de Perguntas e Respostas! Este é um jogo inspirado no fa
 Mini Jogo: Show do Milhão é uma aplicação de linha de comando desenvolvida em JavaScript usando o Node.js. O jogo apresenta uma série de perguntas relacionadas a tecnologias web, permitindo que os jogadores escolham entre opções e acumulem prêmios com respostas corretas.
 - **`index.js`:** O arquivo principal contendo a lógica do jogo.
 
-## Funcionalidades
+  
+## Regras
+O Mini Jogo: Show do Milhão segue algumas regras simples:
+1. **Rodadas e Perguntas:**
+   - O jogo consiste em 5 rodadas.
+   - Cada rodada apresenta uma pergunta relacionada a sobre tecnologias web para desafiar seus conhecimentos.
 
-- **Perguntas Variadas:** O jogo inclui perguntas sobre tecnologias web para desafiar seus conhecimentos.
-- **Prêmios Crescentes:** A cada resposta correta, o jogador acumula prêmios, com valores aumentando a cada rodada.
-- **Tomada de Decisão:** Os jogadores podem decidir parar a qualquer momento, acumulando os prêmios conquistados até o momento.
-- **Fim do Jogo:** O jogo termina após 5 rodadas ou quando o jogador decide parar.
+2. **Acumulação de Prêmios:**
+   - A cada resposta correta, o jogador acumula prêmios, com valores aumentando a cada rodada.
 
+3. **Como Jogar:**
+   - O jogador deve escolher um dentre as 3 opçoes a,b,c
+   - O jogador pode decidir parar a qualquer momento para acumular os prêmios conquistados até o momento.
+
+5. **Fim do Jogo:**
+   - O jogo termina após 5 rodadas ou quando o jogador decide parar.
+   - A pontuação final é exibida, mostrando os prêmios acumulados.
+     
 ## Pré-requisitos
 - [Node.js](https://nodejs.org/) v12.0 ou superior
 - NPM (gerenciador de pacotes) v6.0 ou superior
@@ -38,7 +49,7 @@ Certifique-se de ter o Node.js instalado na sua máquina antes de executar este 
    
 2. Navegue até o Diretório do Projeto:
    ```bash
-    cd "07-JS"
+    cd 07-JS
 4. Instale as Dependências:
    ```bash
    npm install
