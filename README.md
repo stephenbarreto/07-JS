@@ -37,7 +37,7 @@ Certifique-se de ter o Node.js instalado na sua máquina antes de executar este 
    
 2. Navegue até o Diretório do Projeto:
    ```bash
-    cd 07-JS
+    cd "07-JS"
 4. Instale as Dependências:
    ```bash
    npm install
