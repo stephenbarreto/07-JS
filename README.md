@@ -49,6 +49,18 @@ Certifique-se de ter o Node.js instalado na sua máquina antes de executar este 
 - Execute o jogo com o seguinte comando:
   ```bash
   npm start
+  
+## Download zip
+1. Clique no botão verde CODE depois em Download ZIP.
+2. Extrair o arquivo no seu pc.
+3. Execute o terminal e abra o a pasta do projeto pelo terminal.
+4. Siga os passos acima para rodar o jogo.
+5. Observe o screenshot.png para melhor entendimento
+
+## Captura de Tela do Jogo
+
+![Captura de Tela do Jogo](https://github.com/stephenbarreto/07-JS/blob/main/screenshot.png)   
+  
 - Como Jogar Online (Sem Instalação Local): Requisito ter uma conta no replit.com
   Você pode jogar o Mini Jogo diretamente no seu navegador sem a necessidade de instalar o Node.js. Siga as instruções abaixo:
 
