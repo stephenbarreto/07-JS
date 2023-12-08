@@ -2,6 +2,7 @@
 # Mini Jogo: Show do Milhão
 
 Bem-vindo ao Mini Jogo de Perguntas e Respostas! Este é um jogo inspirado no famoso formato do Show do Milhão, mas em uma versão mais compacta, com apenas 5 rodadas. Teste seus conhecimentos sobre Desenvolvimento web enquanto se diverte respondendo perguntas e acumulando prêmios.
+- Criado por Stephen Dias Barreto
 
 ## Índice
 
